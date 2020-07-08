@@ -1,3 +1,3 @@
-import ExamplePage from '~/pages/example';
+import ExamplePage from '~/pages/examplePage';
 
 export { ExamplePage };

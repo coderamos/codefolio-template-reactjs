@@ -1,5 +1,7 @@
 # template | REACTJS
 
+##### babel-plugin-root-import, eslint-plugin-import-helpers, prop-types, react-router-dom, styled-components and more...
+
 ## About This Project
 
 This project contains the basic structure used by [CODERAMOS](https://github.com/coderamos) to start projects in React.

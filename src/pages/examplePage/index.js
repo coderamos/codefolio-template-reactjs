@@ -1,12 +1,12 @@
 import React from 'react';
 
 import { ExampleComponent } from '~/components';
-import { ExampleContainer } from '~/pages/example/styles';
+import { ExampleContainer } from '~/pages/examplePage/styles';
 
 export default function Home() {
   return (
     <ExampleContainer>
-      <ExampleComponent>codefolio-template-reactjs/</ExampleComponent>
+      <ExampleComponent>template-reactjs/</ExampleComponent>
     </ExampleContainer>
   );
 }

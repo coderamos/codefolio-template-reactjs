@@ -2,7 +2,7 @@ import React from 'react';
 
 import PropTypes from 'prop-types';
 
-import { ExampleContainer } from '~/components/example/styles';
+import { ExampleContainer } from '~/components/exampleComponent/styles';
 
 const Example = ({ children }) => {
   return <ExampleContainer>{children}</ExampleContainer>;
