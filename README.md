@@ -1,4 +1,4 @@
-# codefolio | TEMPLATE REACT
+# template | REACTJS
 
 ## About This Project
 
