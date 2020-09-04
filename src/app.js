@@ -3,7 +3,9 @@ import React from 'react';
 import { ThemeProvider } from 'styled-components';
 
 import Routes from '~/routes';
-import { GlobalStyle, theme } from '~/styles';
+
+import GlobalStyle from '~/styles/global';
+import theme from '~/styles/theme';
 
 function App() {
   return (

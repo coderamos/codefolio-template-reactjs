@@ -2,10 +2,10 @@ import React from 'react';
 
 import PropTypes from 'prop-types';
 
-import { ExampleContainer } from '~/components/exampleComponent/styles';
+import * as s from './styles';
 
 const Example = ({ children }) => {
-  return <ExampleContainer>{children}</ExampleContainer>;
+  return <s.ExampleContainer>{children}</s.ExampleContainer>;
 };
 
 Example.propTypes = {

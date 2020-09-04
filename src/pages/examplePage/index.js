@@ -1,12 +1,13 @@
 import React from 'react';
 
-import { ExampleComponent } from '~/components';
-import { ExampleContainer } from '~/pages/examplePage/styles';
+import ExampleComponent from '~/components/exampleComponent';
+
+import * as s from './styles';
 
 export default function Home() {
   return (
-    <ExampleContainer>
+    <s.ExampleContainer>
       <ExampleComponent>template-reactjs/</ExampleComponent>
-    </ExampleContainer>
+    </s.ExampleContainer>
   );
 }
