@@ -3,9 +3,4 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "files.associations": {
-    ".prettierrc": "json",
-    ".babelrc": "javascript",
-    ".eslintrc": "json"
-  }
 }
