@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
 
-import ExamplePage from '~/pages/examplePage';
+import Home from '~/pages/Home';
 
 export default function Routes() {
   return (
     <BrowserRouter>
-      <Route path="/" component={ExamplePage} exact />
+      <Route path="/" component={Home} exact />
     </BrowserRouter>
   );
 }
